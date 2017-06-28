@@ -34,3 +34,6 @@ Submit the project by June 18th. If you don't finish the project, please submit 
 
 ### Feedback
 Any other feedback, please create a Github Issue in this repository. If you want to go farther than that, you can also create a pull request to submit the fix.
+
+### References
+1. [upsampling_and image segmentation](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/11/22/upsampling-and-image-segmentation-with-tensorflow-and-tf-slim/)
